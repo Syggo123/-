@@ -101,9 +101,9 @@ python recognize_lbph.py
 
 ## 相關連結
 
-- [HTML 報告（Neocities）](https://TODO.neocities.org)
-- [AI 對話紀錄（Claude）](https://claude.ai/share/TODO)
-- [YouTube 錄影](https://youtu.be/gMUo6e95H-c)
+- [HTML 報告（Neocities）](https://411206234.neocities.org/)
+- [AI 對話紀錄（Claude）]((https://claude.ai/share/f63f9ec9-99e4-410a-bf82-f5f2ec617af5))
+- [YouTube 錄影](https://youtu.be/cjhLcm84dGw)
 
 ---
 
