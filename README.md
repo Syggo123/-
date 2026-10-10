@@ -95,7 +95,7 @@ python recognize_lbph.py
 
 ### 錄影成果
 
-[![YouTube](https://img.shields.io/badge/YouTube-錄影成果-red?logo=youtube)](https://youtu.be/gMUo6e95H-c)
+[![YouTube](https://img.shields.io/badge/YouTube-錄影成果-red?logo=youtube)](https://youtu.be/cjhLcm84dGw)
 
 ---
 
